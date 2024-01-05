@@ -1,6 +1,6 @@
 <h1>Hello, I'm Joffre, an <a href="https://www.linkedin.com/in/joffre-t-1831371a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3B2gA4W7AkT8aDYECagueSfw%3D%3D">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joffretapia/osticket-prereqs)
